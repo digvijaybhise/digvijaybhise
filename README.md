@@ -19,8 +19,6 @@
 
 - 🔭 I've worked on a project **Restaurant Management System** --> (https://github.com/digvijaybhise/Restaurant-Management)
 
-- 🌱 I’m currently learning --> **Full Stack Web Development**
-
 - 👨‍💻 All of my projects are available at --> (https://github.com/digvijaybhise)
 
 - 📝 I often write articles on --> (https://www.linkedin.com/in/digvijay-bhise)
