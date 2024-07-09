@@ -1,8 +1,7 @@
-<h1 align="center"> <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Digvijay Bhise <img alt="gif" height="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiNjMzOTBiYzUyOGFmNTVlZDFmMmI0ZDE3NGE5ZjA3YWZiMDYxMSZjdD1n/LtiTOVzhzvGuXaea2m/giphy.gif">
-<img width="80%" align="center" height="1" src="./assets/bar.gif" /></h1>
+<h1 align="center">  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Digvijay Bhise 
+</h1>
 
-<h3 align="center"> <img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g"> I am an enthusiastic software developer hailing from India.
-<img alt="india flag gif" height="30" src="https://media3.giphy.com/media/9Gnbm29r7ftUA/200w.webp?cid=ecf05e473za3p49dhmp93wv3n7teyh3wcpip91uh83ll8x4w&rid=200w.webp&ct=g">
+<h3 align="center"> I am an enthusiastic software developer hailing from India.
 </h3>
 
 <h2> DESCRIPTION</h2>
