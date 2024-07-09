@@ -26,7 +26,7 @@
 
 - 📫 How to reach me --> **dmbhise01@gmail.com**
 
-- 📄 Resume --><a href="https://docs.google.com/document/d/1L8PtewcTg5ra_NtYGLjHmWIZsPeO6MC1KnHuWHLL6eE/?usp=drive_link"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
+- 📄 Resume --><a href="https://docs.google.com/document/d/1qEfjgttvR1ZPPTY7I7nWvRCVWJuucdtIJQX1P8S1Io8/edit?usp=sharing"> <img height="100" src="https://cdn.iconscout.com/icon/free/png-256/resume-1956282-1650445.png"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
